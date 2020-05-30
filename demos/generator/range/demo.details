@@ -1,0 +1,8 @@
+/*
+---
+name: Range generator example
+description: Demo to show how to use a generator to iterate over a numeric range
+authors:
+  - Joaquín Ormaechea (https://github.com/jormaechea)
+*/
+<p>Demo to show how to use a generator to iterate over a numeric range</p>
