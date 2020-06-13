@@ -1,0 +1,30 @@
+{
+  "name": "js-demos",
+  "version": "1.0.0",
+  "description": "This repo contains some JS examples of language features applied to real world problems.",
+  "scripts": {
+    "lint": "eslint demos"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jormaechea@github.com/jormaechea/js-demos.git"
+  },
+  "keywords": [
+    "js",
+    "js-demo",
+    "demo",
+    "features",
+    "generators"
+  ],
+  "author": "Joaquín Ormaechea (https://github.com/jormaechea)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jormaechea/js-demos/issues"
+  },
+  "homepage": "https://github.com/jormaechea/js-demos#readme",
+  "devDependencies": {
+    "eslint": "^7.2.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2"
+  }
+}
