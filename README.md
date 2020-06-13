@@ -1,7 +1,7 @@
 # JS Demos
 
-This repo contains some JS examples of language functionalities applied to real world problems.
+This repo contains some JS examples of language features applied to real world problems.
 
-Just browse the file tree to find them. Each of them has a link to test, change and play with in JSFiddle.
+Just browse the file tree to find them. Each feature has a README explaining a little bit of the feature and of each demo.
 
 Get started [here](demos/)!

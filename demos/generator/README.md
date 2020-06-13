@@ -4,5 +4,10 @@ Generators allow you to generate Iterable objects using custom logic. It even al
 
 Here are a couple of examples:
 
-- Basic: Range generator. [View in JSFiddle](https://jsfiddle.net/gh/get/library/pure/jormaechea/js-demos/tree/master/demos/generator/range/)
-- Complex object iteration : Product tags. [View in JSFiddle](https://jsfiddle.net/gh/get/library/pure/jormaechea/js-demos/tree/master/demos/generator/product-tags/)
+## Basic: [Range generator](./range).
+
+This demo uses a generator to loop through a given number range.
+
+## Custom iterator: [Product tags](./product-tags).
+
+This demo uses a generator to make a custom iterator for a given data structure, in this case tags lists for each product in a list.

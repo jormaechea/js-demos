@@ -1,8 +1,0 @@
-/*
----
-name: Product tags generator example
-description: Demo to show how to use a generator to iterate over a multi-level object structure
-authors:
-  - Joaquín Ormaechea
-*/
-<p>Demo to show how to use a generator to iterate over a multi-level object structure</p>
